@@ -1,0 +1,22 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"><h1>Formulário de Inscrição</h1></div>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdnan/fbscription.git"
+  },
+  "author": "José Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdnan/fbscription/issues"
+  },
+  "homepage": "https://github.com/Ferdnan/fbscription#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
