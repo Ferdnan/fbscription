@@ -4,7 +4,7 @@
 <div align="center"><h3>Alterações efetuado no projeto</h3></div>
 <div align="center">
 Alterado paleta de cores<br>
-alerado cor do background<br>
+alterado cor do background<br>
 alterado cor dos buttons/ alterado hover/opacity/transform/transition<br>
 Foi instalado o framework express<br>
 foi utilizado o npm init<br>
